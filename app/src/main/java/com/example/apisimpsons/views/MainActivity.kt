@@ -1,7 +1,8 @@
-package com.example.apisimpsons
+package com.example.apisimpsons.views
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.apisimpsons.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
